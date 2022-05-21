@@ -40,7 +40,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/etherpad.wikimedia.org\/p\/wmhackshowcase2021"
+                         "value":"https:\/\/www.mediawiki.org\/wiki\/Wikimedia_Hackathon_2022\/Showcase"
                         }],
                  "type":"tilelayer",
                  "visible":true,
